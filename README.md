@@ -36,10 +36,8 @@ http://127.0.0.1:8000/api/sign-up/talent/
 https://documenter.getpostman.com/view/28334318/2s9YC8wBUj
 
 - Required Fields:
-    first_name: First name of the user
-    last_name: Last name of the user
-    username: Username for the user
-    email: Email address of the user
-    password: Password for the user
-    user_type: Set to "Talent"
-
+1. first_name: First name of the user
+2. last_name: Last name of the user
+3. username: Username for the user
+4. email: Email address of the user
+5. password: Password for the user
