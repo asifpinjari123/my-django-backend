@@ -32,6 +32,9 @@ Method: POST
 http://127.0.0.1:8000/api/sign-up/fan/
 http://127.0.0.1:8000/api/sign-up/talent/
 
+# Postman Collection Link
+https://documenter.getpostman.com/view/28334318/2s9YC8wBUj
+
 - Required Fields:
     first_name: First name of the user
     last_name: Last name of the user
